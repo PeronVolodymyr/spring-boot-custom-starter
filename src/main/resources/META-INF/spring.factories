@@ -1,1 +1,2 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.example.springbootcustomstarter.config.SampleAutoconfiguration.java
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.example.springbootcustomstarter.config.SampleAutoconfiguration
